@@ -4115,7 +4115,151 @@
 		"price": 186,
 		"category": "Möbel",
 		"defname": "RimFridge_WallRefrigerator"
+	},
+	{
+		"abr": "fußabtreter(blau)",
+		"price": 8,
+		"category": "Möbel",
+		"defname": "DoorMatBlue"
+	},
+	{
+		"abr": "fußabtreter(grün)",
+		"price": 8,
+		"category": "Möbel",
+		"defname": "DoorMatGreen"
+	},
+	{
+		"abr": "fußabtreter(rot)",
+		"price": 8,
+		"category": "Möbel",
+		"defname": "DoorMatRed"
+	},
+	{
+		"abr": "großerfußabtreter(blau)",
+		"price": 20,
+		"category": "Möbel",
+		"defname": "DoorMatBigBlue"
+	},
+	{
+		"abr": "großerfußabtreter(grün)",
+		"price": 20,
+		"category": "Möbel",
+		"defname": "DoorMatBigGreen"
+	},
+	{
+		"abr": "großerfußabtreter(rot)",
+		"price": 20,
+		"category": "Möbel",
+		"defname": "DoorMatBigRed"
+	},
+	{
+		"abr": "largedoormat",
+		"price": 20,
+		"category": "Möbel",
+		"defname": "DoorMatBigLeather"
+	},
+	{
+		"abr": "largedoormat(orange)",
+		"price": 20,
+		"category": "Möbel",
+		"defname": "DoorMatBigOrange"
+	},
+	{
+		"abr": "largedoormat(teal)",
+		"price": 20,
+		"category": "Möbel",
+		"defname": "DoorMatBigTeal"
+	},
+	{
+		"abr": "linkeddoormat",
+		"price": 8,
+		"category": "Möbel",
+		"defname": "DoorMatLinkedLeather"
+	},
+	{
+		"abr": "linkeddoormat(blue)",
+		"price": 8,
+		"category": "Möbel",
+		"defname": "DoorMatLinkedBlue"
+	},
+	{
+		"abr": "linkeddoormat(green)",
+		"price": 8,
+		"category": "Möbel",
+		"defname": "DoorMatLinkedGreen"
+	},
+	{
+		"abr": "linkeddoormat(orange)",
+		"price": 8,
+		"category": "Möbel",
+		"defname": "DoorMatLinkedOrange"
+	},
+	{
+		"abr": "linkeddoormat(red)",
+		"price": 8,
+		"category": "Möbel",
+		"defname": "DoorMatLinkedRed"
+	},
+	{
+		"abr": "linkeddoormat(teal)",
+		"price": 8,
+		"category": "Möbel",
+		"defname": "DoorMatLinkedTeal"
+	},
+	{
+		"abr": "mediumdoormat",
+		"price": 13,
+		"category": "Möbel",
+		"defname": "DoorMatMediumLeather"
+	},
+	{
+		"abr": "mediumdoormat(blue)",
+		"price": 13,
+		"category": "Möbel",
+		"defname": "DoorMatMediumBlue"
+	},
+	{
+		"abr": "mediumdoormat(green)",
+		"price": 13,
+		"category": "Möbel",
+		"defname": "DoorMatMediumGreen"
+	},
+	{
+		"abr": "mediumdoormat(orange)",
+		"price": 13,
+		"category": "Möbel",
+		"defname": "DoorMatMediumOrange"
+	},
+	{
+		"abr": "mediumdoormat(red)",
+		"price": 13,
+		"category": "Möbel",
+		"defname": "DoorMatMediumRed"
+	},
+	{
+		"abr": "mediumdoormat(teal)",
+		"price": 13,
+		"category": "Möbel",
+		"defname": "DoorMatMediumTeal"
+	},
+	{
+		"abr": "smalldoormat",
+		"price": 8,
+		"category": "Möbel",
+		"defname": "DoorMatLeather"
+	},
+	{
+		"abr": "smalldoormat(orange)",
+		"price": 8,
+		"category": "Möbel",
+		"defname": "DoorMatOrange"
+	},
+	{
+		"abr": "smalldoormat(teal)",
+		"price": 8,
+		"category": "Möbel",
+		"defname": "DoorMatTeal"
 	}
 	],
-	"total": 686
+	"total": 710
 }
