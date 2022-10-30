@@ -3104,25 +3104,25 @@
     },
     {
       "abr": "synthetischehaut",
-      "category": "Bionisch",
+      "category": "Body restoration",
       "defname": "SyntheticSkin",
       "price": 287
     },
     {
       "abr": "neuromuskuläres-netzwerk",
-      "category": "Bionisch",
+      "category": "Body restoration",
       "defname": "NeuromuscularFramework",
       "price": 1133
     },
     {
       "abr": "neuroreparatur-netzwerk",
-      "category": "Ultratech",
+      "category": "Body restoration",
       "defname": "NeurocureFramework",
       "price": 1775
     },
     {
       "abr": "syntheticbone",
-      "category": "Bionisch",
+      "category": "Body restoration",
       "defname": "EPIA_SyntheticBone",
       "price": 329
     },
